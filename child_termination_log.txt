@@ -1,0 +1,5 @@
+Child process with PID 2524 terminated.
+Child process with PID 2527 terminated.
+Child process with PID 2528 terminated.
+Child process with PID 2531 terminated.
+Child process with PID 2532 terminated.
